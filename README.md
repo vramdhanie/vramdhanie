@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**Software Developer/Lecturer/Mentor**
+
+- 🔭 I’m currently working on a React application backed by Firebase.
+
 <!--
 **vramdhanie/vramdhanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
