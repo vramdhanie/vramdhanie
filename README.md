@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-**Software Developer/Lecturer/Mentor**
+ - I'm Vincent, a **Software Developer/Lecturer/Mentor**
+ - 🔭 I’m currently working on a React application backed by Firebase for a retail business.
+ - I work with React, Node, Python, Java and a host of technologies.
 
-- 🔭 I’m currently working on a React application backed by Firebase.
-
-You can contact me via [my website](https://vincentramdhanie.com)
+📫 You can contact me via [my website](https://vincentramdhanie.com)
 
 <!--
 **vramdhanie/vramdhanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
