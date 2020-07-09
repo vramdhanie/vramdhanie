@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on a React application backed by Firebase.
 
+You can contact me via [my website](https://vincentramdhanie.com)
+
 <!--
 **vramdhanie/vramdhanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
