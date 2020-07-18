@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://vincentramdhanie.com">Website</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=vramdhanie&tw_p=followbutton">Twitter</a> •
+  <a href="https://twitter.com/vramdhanie?ref_src=twsrc%5Etfw">Twitter</a> •
   <a href="https://bahai.org">Baha'i</a>
 </p>
 
