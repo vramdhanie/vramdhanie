@@ -15,8 +15,8 @@
 
 ---
 
- - I'm Vincent, a **Software Developer/Lecturer/Mentor**
- - 🔭 I’m currently working on a React application backed by Firebase for a retail business.
+ - 👋 I'm Vincent, a **Software Developer/Lecturer/Mentor**
+ - 🔭 I’m currently a Senior Software Engineer at [Teamflow](https://teamflowhq.com).
  - I work with React, Node, Python, Java and a host of other technologies.
  - 💬 Ask me about the [Baha'i Faith](https://bahai.org)
  - 🌱 I’m currently learning ... the limitations of the Firestore database
