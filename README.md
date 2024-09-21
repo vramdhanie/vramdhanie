@@ -16,7 +16,7 @@
 ---
 
  - 👋 I'm Vincent, a **Software Developer/Lecturer/Mentor**
- - 🔭 I’m currently a Senior Software Engineer at [Lindy](https://lindy.ai).
+ - 🔭 I’m currently a Senior Software Engineer at [Sybill](https://sybill.ai).
  - I work with React, Node, Python, Java and a host of other technologies.
  - 💬 Ask me about the [Baha'i Faith](https://bahai.org)
  - 🌱 I’m currently learning ... the limitations of the Large Language Models
