@@ -5,8 +5,8 @@
 <h2 align="center">Hi, I’m Vincent 👋🏾</h2>
 
 <p align="center">
-  Senior Software Engineer • Lecturer • Mentor<br/>
-  20+ years building, teaching, and learning software
+  Senior Software Engineer • Full-stack &amp; production AI systems<br/>
+  20+ years building software, 18 of them teaching it too
 </p>
 
 <p align="center">
@@ -15,34 +15,34 @@
   <a href="https://twitter.com/vramdhanie">Twitter</a>
 </p>
 
-
-
 ---
 
 ### 👨🏾‍💻 About me
 
-I’m a senior software engineer with over two decades of experience building real-world systems — from early-stage products to production platforms used at scale.
+I build end-to-end products — the interface, the services behind it, and the infrastructure underneath. For the last few years that work has been **production AI**: LLM and agent systems that have to be reliable enough for customers to depend on, not just impressive in a demo.
 
-Alongside shipping code, I care deeply about **teaching and mentorship**. I’ve lectured at the university level and spent years mentoring aspiring developers, helping them bridge the gap between tutorials and professional engineering.
+Currently a **Senior Software Engineer at [Sybill](https://sybill.ai)**, working across the stack on an AI meeting-intelligence platform. I own customer-facing reliability and the engineering side of our SOC 2, HIPAA and ISO 42001 work.
 
-Currently, I’m a **Senior Software Engineer at [Sybill](https://sybill.ai)**.
-
----
-
-### 🧰 Technologies & interests
-
-- **Frontend:** React, modern JavaScript, UI architecture
-- **Backend:** Node.js, Python, Java
-- **Engineering:** system design, maintainability, debugging, developer education
-- **Curiosity:** the real-world limits (and strengths) of large language models
+Before that I was at **Lindy** (formerly **Teamflow**), where I built customer-facing features from zero to one and, after the company pivoted, worked on the first version of its AI agent platform — exploratory AI infrastructure, long-lived workflow tasks, and benchmarking.
 
 ---
 
-### 🧠 Teaching & community
+### 🧰 What I work with
 
-- Former mentor at **Thinkful** (6 years)
-- Lecturer (University of London external programme, SBCS)
-- Active on **Stack Overflow**, where I try to give practical, experience-driven answers
+- **Languages:** TypeScript, Python, Java — and Rust, slowly, for fun
+- **Frontend:** React, Next.js, modern CSS, UI architecture
+- **Backend:** Node.js, FastAPI, REST and webhook API design
+- **AI:** LLM application development (OpenAI, Anthropic), agent systems, MCP, evaluation and benchmarking
+- **Data &amp; infra:** PostgreSQL, MongoDB, AWS, Temporal, Docker, GitHub Actions
+- **Care about:** system design, reliability, careful debugging, and code the next person can actually read
+
+---
+
+### 🧠 Teaching &amp; community
+
+Eighteen years lecturing alongside engineering work — artificial intelligence, neural networks, algorithm design and programming, on the University of London external programme at SBCS. Six years mentoring at **Thinkful**, plus corporate Git training for engineering teams including Autodesk.
+
+Making complex systems legible to other people is the part of this work I enjoy most.
 
 <p align="center">
   <a href="https://stackexchange.com/users/13598">
